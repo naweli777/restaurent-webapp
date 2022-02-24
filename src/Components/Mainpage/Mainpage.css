@@ -1,0 +1,15 @@
+.Heading {
+  position: relative;
+}
+
+.main_Img
+{
+    width: 100%;
+}
+.Title {
+    display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
